@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"/>
 	<title>Awesome HTML5 Webpage</title>
-	<meta name="description" content="An awesome HTML5 page YOU built from scratch!">
-	<meta name="author" content="CMDiaz">
-	<link rel="stylesheet" href="css/style.css">
+	<meta name="description" content="An awesome HTML5 page YOU built from scratch!"/>
+	<meta name="author" content="cmdiaz"/>
+	<link rel="stylesheet" href="css/estilo.css"/>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 </head>
 <body>
 <div id="page">
