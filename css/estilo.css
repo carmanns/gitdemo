@@ -1,0 +1,13 @@
+#contenedor {
+	background-color: lime;
+	height: 150px;
+	width: 150px;
+	padding: 10px;
+	border: solid 4px black;
+	margin: 30px;
+}
+
+#inner {
+	background-color: aqua;
+	height: 100%;
+}
