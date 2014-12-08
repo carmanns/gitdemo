@@ -11,3 +11,51 @@
 	background-color: aqua;
 	height: 100%;
 }
+/** {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}*/
+
+body {
+	width: 100%;
+}
+
+.flexbox {
+	background-color: gray;
+	border: 2px solid black;
+	margin: 20px;
+
+	display: box;
+	box-orient: horizontal;
+
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+
+	display: -moz-box;
+	-moz-box-orient: horizontal;
+}
+
+.flexbox > div {
+	box-flex: 1;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+}
+
+#rojo {
+	padding: 20px;
+	margin: 10px;
+	background-color: red;
+}
+
+#verde {
+	padding: 20px;
+	margin: 10px;
+	background-color: green;
+}
+
+#naranja {
+	padding: 20px;
+	margin: 10px;
+	background-color: orange;
+}
